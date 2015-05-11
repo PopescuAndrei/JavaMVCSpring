@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [11/May/2015:11:59:26 +0300] "GET /app/mvc/employees/all HTTP/1.1" 400 968 http-bio-8080-exec-1 65
+0:0:0:0:0:0:0:1 - - [11/May/2015:11:59:31 +0300] "GET /app/mvc/employees HTTP/1.1" 200 22422 http-bio-8080-exec-2 358

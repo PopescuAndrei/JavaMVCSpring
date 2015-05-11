@@ -6,7 +6,7 @@ public interface DBProperties {
     String PORT = "3306";
     String SCHEMA = "zth_10";
     String USER = "root";
-    String PASS = "";
+    String PASS = "root";
     String DRIVER_CLASS = "com.mysql.jdbc.Driver";
     boolean IS_ORACLE = false;
     boolean IS_MYSQL = true;
